@@ -1,0 +1,7 @@
+version: '2'
+services:
+  sample-imgserv:
+    image: rid/sample-imgserv
+    # build: .
+    ports:
+      - 9000:9000
