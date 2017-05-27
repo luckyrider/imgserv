@@ -1,6 +1,6 @@
 # Image server
 
-[![Build Status](https://travis-ci.org/ridfrustum/imgserv.svg?branch=master)](https://travis-ci.org/ridfrustum/imgserv)
+[![Build Status](https://travis-ci.org/luckyrider/imgserv.svg?branch=master)](https://travis-ci.org/luckyrider/imgserv)
 
 ## Run
 
